@@ -148,3 +148,10 @@ C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\M
 C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
 C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\DashBoard\Index.cshtml.g.cs
 C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Position\Index.cshtml.g.cs
+C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\TeamMember\Index.cshtml.g.cs
+C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\MyBiz.csproj.AssemblyReference.cache
+C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Position\Create.cshtml.g.cs
+C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\DashBoard\Error.cshtml.g.cs
+C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Position\Edit.cshtml.g.cs
+C:\Users\bduguest\source\repos\MyBiz\MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Position\Delete.cshtml.g.cs

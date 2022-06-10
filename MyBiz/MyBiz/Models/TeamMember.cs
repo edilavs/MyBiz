@@ -18,6 +18,7 @@ namespace MyBiz.Models
         [MaxLength(200)]
         public string Desc { get; set; }
         public Position Position { get; set; }
+        
 
     }
 }
